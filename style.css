@@ -1,0 +1,15 @@
+h3[class="pink"] {
+    color: pink;
+}
+p[id='greycol'] {
+    color: grey;
+}
+div:nth-of-type(2) {
+    color: red;
+}
+p:nth-of-type(3) {
+    color: green;
+}
+p[class='yellow'] {
+    color:yellow
+}
